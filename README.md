@@ -6,6 +6,10 @@
   [![Version](https://img.shields.io/badge/version-1.0.0--mainnet-emerald.svg?style=for-the-badge)](https://0xtech.org)
   [![Status](https://img.shields.io/badge/status-live-success.svg?style=for-the-badge)](https://0xtech.org)
   [![Tech](https://img.shields.io/badge/stack-Node.js%20%7C%20Python%20%7C%20TensorFlow-black.svg?style=for-the-badge)](https://0xtech.org)
+
+[![Stars](https://img.shields.io/github/stars/metadev-xi/zenith-bot?style=social)](https://github.com/metadev-xi/zenith-bot)
+[![Forks](https://img.shields.io/github/forks/metadev-xi/zenith-bot?style=social)](https://github.com/metadev-xi/zenith-bot)
+[![Activity](https://img.shields.io/github/last-commit/metadev-xi/zenith-bot?style=flat-square&color=blue)](https://github.com/metadev-xi/zenith-bot)
 </div>
 
 ---
@@ -57,6 +61,19 @@ Zenith Bot provides a comprehensive API surface for both frontend interactions a
 - **Website**: [https://0xtech.org](https://0xtech.org/)
 - **Email**: [metadevxi@gmail.com](mailto:metadevxi@gmail.com)
 
+
+## 🌟 Show Your Support
+
+If you find this project useful, please consider giving it a ⭐ on GitHub! It helps us keep the project active and reach more developers.
+
+- **Star this repo**
+- **Fork to customize**
+- **Follow for updates**
+
+---
+
 ## License
 
 © 2026 Orbit Foundation. All rights reserved. Built for the decentralized future.
+
+<!-- Last Activity: 2026-01-29T12:00:54.619Z -->
